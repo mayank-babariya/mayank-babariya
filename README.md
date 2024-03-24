@@ -1,6 +1,12 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=mayank-babariya&color=green)
 
+
+I'm Mayank, an avid learner who graduated with a Bachelor's degree in Electronics and Communication Engineering. I honed my skillset as a Python Developer at Onnet Consulting Sdn. Bhd., fueled by a love for technology. My expertise in Python, PostgreSQL, and JavaScript expanded as I worked on projects that demanded precision and ingenuity.
+
+As I am on the cusp of completing my Master's degree in Electrical and Computer Engineering at Ontario Tech University, I am eagerly exploring opportunities that align with my skills and aspirations. This pursuit stands as evidence of my dedication to perpetual growth and unchanging curiosity about the technological frontier.
+
+I'm looking forward to meeting other professionals, sharing ideas, and finding opportunities. To engage in meaningful discussions or collaborations, please feel free to connect me on [Linkedin](https://www.linkedin.com/in/mayank-babariya).
+![](https://komarev.com/ghpvc/?username=mayank-babariya&color=blue)
 <!--
 **mayank-babariya/mayank-babariya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
