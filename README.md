@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm Mayank, currently pursuing Master's in Electrical and Computer Engineering at Ontario Tech University, following my Bachelor's in Electronics and Communication Engineering. With 2 years of experience as a Developer, I've specialized in Python, PostgreSQL, JavaScript, and more.
+I'm Mayank, currently pursuing Master's in Electrical and Computer Engineering at Ontario Tech University, following my Bachelor's in Electronics and Communication Engineering. With 1.5 years of experience as a Developer, I've specialized in Python, PostgreSQL, JavaScript, and more.
 
 Looking forward to meeting other professionals, sharing ideas, and finding opportunities. To engage in meaningful discussions or collaborations, please feel free to connect me on [Linkedin](https://www.linkedin.com/in/mayank-babariya).
 
