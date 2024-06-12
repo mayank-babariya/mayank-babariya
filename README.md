@@ -6,7 +6,6 @@ I'm Mayank, currently pursuing Master's in Electrical and Computer Engineering a
 Looking forward to meeting other professionals, sharing ideas, and finding opportunities. To engage in meaningful discussions or collaborations, please feel free to connect me on [Linkedin](https://www.linkedin.com/in/mayank-babariya).
 
 
-![](https://komarev.com/ghpvc/?username=mayank-babariya&color=blue)
 <!--
 **mayank-babariya/mayank-babariya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
