@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+https://codeforces.com/profile/mayank.babariya
+https://www.hackerrank.com/profile/mbabariya2000
+https://leetcode.com/u/mayankbabariya/
 <!--
 **mayank-babariya/mayank-babariya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
